@@ -150,6 +150,83 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
+.[File: 0-hbnb.py, templates/0-hbnb.html].
+
+## 0-hbnb.py
+- Contains the main Python script for the initial version of the HBNB web application.
+- Purpose: Entry point for launching the application.
+
+## 0-hbnb.html
+- Template file responsible for rendering the frontend of the HBNB web application.
+- Purpose: Defines the layout and structure of the webpage.
+
+
+### File: 1-hbnb.py, templates/1-hbnb.html, static/scripts/1-hbnb.js
+
+## 1-hbnb.py
+- Python script for an enhanced version of the HBNB web application.
+- Purpose: Provides additional functionalities and features compared to the initial version.
+
+## 1-hbnb.html
+- HTML template file with updated content and layout for the enhanced HBNB web application.
+- Purpose: Improves user interface and experience.
+
+## 1-hbnb.js
+- JavaScript file containing client-side scripting logic for the enhanced HBNB web application.
+- Purpose: Implements dynamic behavior and interactivity on the frontend.
+
+
+### File: api/v1/app.py, web_dynamic/2-hbnb.py, web_dynamic/templates/2-hbnb.html, web_dynamic/static/styles/3-header.css, web_dynamic/static/scripts/2-hbnb.js
+
+## api/v1/app.py
+- Python script serving as the backend API for version 1 of the HBNB web application.
+- Purpose: Handles HTTP requests and responses for data retrieval and manipulation.
+
+## web_dynamic/2-hbnb.py
+- Python script for an updated version of the HBNB web application with API integration.
+- Purpose: Integrates backend API functionality into the frontend.
+
+## web_dynamic/templates/2-hbnb.html
+- HTML template file reflecting changes to the layout and content with API integration.
+- Purpose: Displays data fetched from the backend API in the frontend interface.
+
+## web_dynamic/static/styles/3-header.css
+- CSS stylesheet for styling the header section of the HBNB web application.
+- Purpose: Defines styles and formatting for the header component.
+
+## web_dynamic/static/scripts/2-hbnb.js
+- JavaScript file containing scripting logic for handling API requests and responses.
+- Purpose: Facilitates communication between the frontend and backend through asynchronous operations.
+
+### File: web_dynamic/3-hbnb.py, web_dynamic/templates/3-hbnb.html, web_dynamic/static/scripts/3-hbnb.js
+
+## web_dynamic/3-hbnb.py
+- Python script for a further enhanced version of the HBNB web application.
+- Purpose: Implements additional features and optimizations.
+
+## web_dynamic/templates/3-hbnb.html
+- HTML template file with updated features and improvements.
+- Purpose: Enhances user interaction and functionality.
+
+## web_dynamic/static/scripts/3-hbnb.js
+- JavaScript file containing advanced scripting logic for enhanced frontend behavior.
+- Purpose: Improves user experience through dynamic and responsive features.
+
+
+### File: web_dynamic/4-hbnb.py, web_dynamic/templates/4-hbnb.html, web_dynamic/static/scripts/4-hbnb.js
+
+## File: web_dynamic/4-hbnb.py
+- Python script for the latest version of the HBNB web application.
+- Purpose: Represents the most recent iteration with all available features and optimizations.
+
+## web_dynamic/templates/4-hbnb.html
+- HTML template file reflecting the latest updates and enhancements.
+- Purpose: Showcases the finalized version of the HBNB web application.
+
+## web_dynamic/static/scripts/4-hbnb.js
+- JavaScript file containing finalized scripting logic for the HBNB web application.
+- Purpose: Implements all necessary frontend functionalities and interactions.
+
 ## Bugs
 No known bugs at this time. 
 
@@ -158,9 +235,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-
 Taurai Masaire - [Github](https://github.com/Tau-rai)
-
 Avumile Ndlovu - [Github](https://github.com/Aevy21)
 
 Second part of Airbnb: Joann Vuong
