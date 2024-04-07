@@ -150,9 +150,9 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
-.[File: 0-hbnb.py, templates/0-hbnb.html].
+.[/File: 0-hbnb.py, templates/0-hbnb.html].
 
-## 0-hbnb.py
+**0-hbnb.py**
 - Contains the main Python script for the initial version of the HBNB web application.
 - Purpose: Entry point for launching the application.
 
